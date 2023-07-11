@@ -28,7 +28,7 @@ To get started with the Diamond Price Prediction project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/Ahmad10Raza/DiamondPricePrediction1.git
+   git clone https://github.com/krishnaik06/DiamondPricePrediction1.git
    ```
 
 2. Install the required dependencies by running the following command:
@@ -36,7 +36,7 @@ To get started with the Diamond Price Prediction project, follow these steps:
    pip install -r requirements.txt
    ```
 3. ```python
-   python application.py
+   python app.py
    
 4. Go to  **localhost:5000**
 
